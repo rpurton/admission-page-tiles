@@ -4,15 +4,10 @@
 .sub-page-buttons {
     height: 60px;
     width: 46.8%;
-    border-top: 10px solid #E9B71F;
-    border-bottom: 1px solid #E9B71F;
-    border-right: 1px solid #E9B71F;
-    border-left: 1px solid #E9B71F;
+    border: 10px 1px 1px 1px solid #E9B71F;
     padding: 1em;
     color: #a59d49;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 1.3em;
+    margin: 1em 0em 1em 1.3em;
     line-height: 1.2em;
     text-align: center;
     float: left;
