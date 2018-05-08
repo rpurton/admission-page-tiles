@@ -1,5 +1,7 @@
+<?php
+
 function create_posttype() {
- 
+
     register_post_type( 'page_button',
 //     CPT Options
         array(
@@ -33,3 +35,5 @@ function create_posttype() {
    )
    );
 }
+
+?>
