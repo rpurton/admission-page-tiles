@@ -1,2 +1,2 @@
 # admission-page-tiles
-Custom post type for admission site page tiles
+WordPress custom post type for admission site page tiles.
